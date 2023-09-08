@@ -26,6 +26,20 @@
 - Create a new branch named bug_fix
 - Create an index.html file under this branch while in the **outter_folder**
 - Inside the html file, add a link to a youtube video of your choice (PG)
- - Merge your branch, push your code and send me the link to your github repo via slack
-
+- Merge your branch, push your code and send me the link to your github repo via slack
 ### Great Job. Do not forget to DM your github repo for evaluation.
+
+## Extra Credit
+- Read Chapter 1 ( pages 2 and 3 ) in the Headfrst Java text book and be prepared for a code review.
+ Code review consits of you compiling and running your HelloWorld java program (Main.java) file from the commandline. 
+
+
+# WEEKEND HOMEWORK 
+( Carriea an infraction if not submitted )
+```Using IntelliJ and the Head first java text book, work on the following```
+- Chapter 1 page 14  and 16 (fix bugs and code along)
+- Chapter 2 page 38 (Guessing game) code along
+- Push code and dm by 12 midnight on Sunday.
+
+
+
