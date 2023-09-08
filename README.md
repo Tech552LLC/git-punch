@@ -4,11 +4,11 @@
 
 - Start by creating a folder named **outter_folder**
 - Inside the outter_folder, create another folder named **inner_folder**
-- While inside the outter_folder, create a file named **fullname.txt**
-- Edit the file using V.I by creating a simple Java program that prints out Hello world
+- While inside the outter_folder, create a file named **Main.java**
+- Edit the file using V.I by creating a simple Java program that prints out Hello world!
 - Save the file and exit V.I
-- Create another file but this time inside the inner_folder and name the file **blank_file.txt**.
-- Next, copy all the contents from the fullname.txt file into the blank_file.txt file from the command-line
+- Next, create another file but this time inside the **inner_folder** and name the file **blank_file.txt**.
+- Next, copy all the contents from the **Main.java** file into the **blank_file.txt** file using a command from the command-line.
 - Retrieve and print out all the contents (Hello world Java program) that are now inside the blank_file.txt to the terminal
 - Both txt files should now have your HelloWorld Java program inside of them
 - Inside the outter_folder, create one more file named ignoreme.txt
