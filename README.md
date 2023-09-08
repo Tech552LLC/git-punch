@@ -10,17 +10,17 @@
 - Next, create another file but this time inside the **inner_folder** and name the file **blank_file.txt**.
 - Next, copy all the contents from the **Main.java** file into the **blank_file.txt** file using a command from the command-line.
 - Retrieve and print out all the contents (Hello world Java program) that are now inside the blank_file.txt to the terminal
-- Both txt files should now have your HelloWorld Java program inside of them
+- Both files should now have your HelloWorld Java program inside of them.
 - Inside the outter_folder, create one more file named ignoreme.txt
 
 > To ensure we do not lose all of our work:
-  - Lets go ahead and make our folder a git repository but make sure that you do NOT push the ignoreme.txt file to github.com.
+  - Lets go ahead and make our folder a git repository but make sure that you do NOT push the ignoreme.txt file to github.com. (Hint: gitignore)
   - Now push your local repo to github.com
 
-> Now one more thing: 
-- Let’s add a README file to this project
-- Inside the readme file, add your first and last name. 
-- Make sure that your repo on github.com is updated and reflects this new piece of information
+> One more thing: 
+- Let’s add a README.md file to this project from the command line
+- Inside the README.md file, add your first and last name. 
+- Make sure that your repo on github.com is updated with your local repo by pushing your code again!
 
 > Finally:
 - Create a new branch named bug_fix
