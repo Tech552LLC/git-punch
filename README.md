@@ -24,7 +24,7 @@
 
 > Finally:
 - Create a new branch named bug_fix
-- Create an index.html file under this branch
+- Create an index.html file under this branch while in the **outter_folder**
 - Inside the html file, add a link to a youtube video of your choice (PG)
  - Merge your branch, push your code and send me the link to your github repo via slack
 
