@@ -28,4 +28,4 @@
 - Inside the html file, add a link to a youtube video of your choice (PG)
  - Merge your branch, push your code and send me the link to your github repo via slack
 
-### Great Job. Do not forget to DM your github repo for evaluation. Thanks
+### Great Job. Do not forget to DM your github repo for evaluation.
