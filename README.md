@@ -6,7 +6,8 @@
 - Inside the outter_folder, create another folder named **inner_folder**
 - While inside the outter_folder, create a file named **Main.java**
 - Edit the file using V.I by creating a simple Java program that prints out Hello world!
-- Save the file and exit V.I
+- Save the file and exit V.I. 
+- Here is a resource for the VI editor - https://www.redhat.com/sysadmin/introduction-vi-editor#:~:text=To%20save%20a%20file%2C%20you,save%2C%20and%20quit%20means%20exit.
 - Next, create another file but this time inside the **inner_folder** and name the file **blank_file.txt**.
 - Next, copy all the contents from the **Main.java** file into the **blank_file.txt** file using a command from the command-line.
 - Retrieve and print out all the contents (Hello world Java program) that are now inside the blank_file.txt to the terminal
