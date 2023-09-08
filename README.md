@@ -38,7 +38,8 @@
 ```Using IntelliJ and the Head first java text book, work on the following: ```
 - Chapter 1 page 14  and 16 (fix bugs and code along)
 - Chapter 2 page 38 (Guessing game) code along
-- Push code and dm by 12 midnight on Sunday (September 10, 2023) *Carriea an infraction if not submitted*
+
+- Push code to github and dm by 12 midnight on Sunday (September 10, 2023) else earn an infraction!
 
 
 
